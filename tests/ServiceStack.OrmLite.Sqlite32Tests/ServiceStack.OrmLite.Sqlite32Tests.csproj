@@ -84,10 +84,6 @@
     <Compile Include="UseCase\SimpleUseCase.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\ServiceStack.OrmLite.Sqlite32\ServiceStack.OrmLite.Sqlite32.csproj">
-      <Project>{eaa0f35e-66cd-4b3d-bb17-7ce8ede83ae7}</Project>
-      <Name>ServiceStack.OrmLite.Sqlite32</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\src\ServiceStack.OrmLite\ServiceStack.OrmLite.csproj">
       <Project>{96179AC6-F6F1-40C3-9FDD-4F6582F54C5C}</Project>
       <Name>ServiceStack.OrmLite</Name>

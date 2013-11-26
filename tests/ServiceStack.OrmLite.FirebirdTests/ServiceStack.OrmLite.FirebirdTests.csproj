@@ -138,10 +138,6 @@
       <Project>{96179AC6-F6F1-40C3-9FDD-4F6582F54C5C}</Project>
       <Name>ServiceStack.OrmLite</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\ServiceStack.OrmLite.Firebird\ServiceStack.OrmLite.Firebird.csproj">
-      <Project>{317B64BA-D7A6-4A15-8719-821B38147C63}</Project>
-      <Name>ServiceStack.OrmLite.Firebird</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
